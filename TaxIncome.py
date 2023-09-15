@@ -1,5 +1,5 @@
 # initialize the constants
-
+RATE = 0.85
 TAX_RATE = 0.20
 STANDARD_DEDUCTION = 100000.0
 DEPENDENT_DEDUTION = 3000.0
